@@ -7,6 +7,8 @@
 ![Unsloth](https://img.shields.io/badge/Unsloth-QLoRA-green)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)
 
+📄 **Paper:** *Coming soon*
+
 
 ## Project Summary
 
